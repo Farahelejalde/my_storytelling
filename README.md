@@ -10,9 +10,8 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- :woman: Fulsang María Úbeda Carmona
+- :woman: Farah Elejalde Pumarega
 
 
 Proyecto (código): 
@@ -20,9 +19,9 @@ URL (link) del proyecto en Github:
 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
+- [ ] FictionCiberpunk  
 - [ ] Reality/tribus urbanas  
-- [ ] Comic
+- [x] Comic
 
 
 
@@ -31,29 +30,26 @@ Tipo/Género:
 
 ### Personaje
 
-
-![](img-nobody.png)
-
-Nombre: 
-
+Nombre: Cafeína
+https://excalidraw.com/#json=j2FuENHUsoyfJFea7KsOG,DOs3Nexuf8QGjH2DmOj5oQ 
 
 NOTA: La ficha del personaje se puede hacer con la pizarra online https://excalidraw.com/ y la plantilla que se tiene en este repositorio llamada [ficha_personaje.excalidraw](ficha_personaje.excalidraw)  <br> 
 * hay que descargarla al ordenado y usarla en excalidraw con la opción archivo > Abrir
 
 ### Historia
-
+Cafeína es una chica alegre y decidida, nacida en una familia de guardianes del universo. Su su misión es mantener el equilibrio entre la vigilia y el sueño. Para ello se tiene que enfrentar al poder del guardián del sueño que pretende ir arrasando con todos los mundos. 
 
 ### TagLine
-
+Cuando el sueño ataca, cafeína contraataca.
 
 ### Conflicto 
-
+El Señor del Sueño está propagando la somnolencia por diferentes mundos, convirtiendo a sus habitantes en zombis y criaturas dormilonas. Cafeína debe encontrar la manera de despertarlos y combatir su influencia, usando diferentes herramientas y estrategias. Sin embargo, no todas las soluciones funcionan igual para cada afectado, lo que la obliga a ser creativa y rápida antes de que el sueño lo consuma todo.
 
 ### Productos
 
 - Personaje: (img personaje y enlace a interactivo) 
-
-
+![WhatsApp Image 2025-03-10 at 12 24 32](https://github.com/user-attachments/assets/6555f18d-07f3-4d6c-9ca4-d42ef549474d)
+https://ugr2.h5p.com/content/1292535033125887727 
 - Banner/Teaser:  (enlace) 
 
 
