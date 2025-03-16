@@ -5,10 +5,6 @@ Plantilla para crear mi historia interactiva de la asignatura [Creatividad e inn
 
 
 Autores:  
-<!---
-Incluir lista de personas del grupo 
-Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
--->
 
 - :woman: Fulsang María Úbeda Carmona
 - :woman: Farah Elejalde Pumarega
@@ -33,9 +29,6 @@ Tipo/Género:
 Nombre: Cafeína
 https://excalidraw.com/#json=j2FuENHUsoyfJFea7KsOG,DOs3Nexuf8QGjH2DmOj5oQ 
 
-NOTA: La ficha del personaje se puede hacer con la pizarra online https://excalidraw.com/ y la plantilla que se tiene en este repositorio llamada [ficha_personaje.excalidraw](ficha_personaje.excalidraw)  <br> 
-* hay que descargarla al ordenado y usarla en excalidraw con la opción archivo > Abrir
-
 ### Historia
 Cafeína es una chica alegre y decidida, nacida en una familia de guardianes del universo. Su su misión es mantener el equilibrio entre la vigilia y el sueño. Para ello se tiene que enfrentar al poder del guardián del sueño que pretende ir arrasando con todos los mundos. 
 
@@ -47,13 +40,13 @@ El Señor del Sueño está propagando la somnolencia por diferentes mundos, conv
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personaje: 
 ![WhatsApp Image 2025-03-10 at 12 24 32](https://github.com/user-attachments/assets/6555f18d-07f3-4d6c-9ca4-d42ef549474d)
 https://ugr2.h5p.com/content/1292535033125887727 
-- Banner/Teaser:  (enlace) 
+- Banner/Teaser:   
 
 
-- Storytelling: (enlace) 
+- Storytelling: 
 
 
 
