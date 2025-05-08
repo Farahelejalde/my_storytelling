@@ -43,7 +43,7 @@ El Señor del Sueño está propagando la somnolencia por diferentes mundos, conv
 - Personaje: 
 ![WhatsApp Image 2025-03-10 at 12 24 32](https://github.com/user-attachments/assets/6555f18d-07f3-4d6c-9ca4-d42ef549474d)
 https://ugr2.h5p.com/content/1292535033125887727 
-- Banner/Teaser:   
+- Banner/Teaser:  https://www.figma.com/proto/QRGtPQUTKB3yJZRAMvIpUj/Sin-t%C3%ADtulo?node-id=1-1225&p=f&t=xkMl485If53QNYmU-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A1225&show-proto-sidebar=1  
 
 
 - Storytelling: 
